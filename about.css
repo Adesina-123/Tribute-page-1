@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#wrapper {
+  background-color: #dcdce6;
+  text-align: center;
+  padding-top: 35px;
+}
+.alert {
+  color: #337ab7;
+  font-family: inherit;
+  line-height: 1.1;
+  padding-bottom: 19px;
+  font-weight: 500;
+  font-size: 40px;
+}
+h2.formular {
+  color: green;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: inherit;
+  font-style: italic;
+  padding-bottom: 11px;
+}
+img.img {
+  height: 243px;
+}
+p.text {
+  font-weight: 700;
+  padding-bottom: 12px;
+}
+p#term {
+  font-weight: 700;
+  padding-bottom: 16px;
+}
+ul.list {
+  text-align: start;
+  margin-left: 43px;
+  margin-right: 15px;
+}
+h2.uder {
+  text-align: start;
+  margin-left: 38px;
+  padding-top: 12px;
+}
+h5#albert {
+  text-align: initial;
+  margin-left: 43px;
+  padding-top: 8px;
+  font-size: 17px;
+}
+.last {
+  text-align: initial;
+  padding-left: 18px;
+  padding-top: 3px;
+}
+h4#foot {
+  font-size: 18px;
+  color: rgb(148, 0, 211);
+  padding-bottom: 15px;
+}
